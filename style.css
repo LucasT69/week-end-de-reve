@@ -1,0 +1,79 @@
+/*Couleurs: 1=#58D68D 2=#F7DC6F 3=#EC7063 4=#85929E*/
+*{
+	margin: 0;
+	font-size: 30px;
+	color: white;
+}
+
+body{
+	padding: 0;
+	max-width: 1500px;
+}
+
+h1, h2{
+	text-align: center;
+	padding: 20px;
+	font-family: "impact", "georgia", sans-serif;
+	letter-spacing: 2px;
+}
+
+h1{
+	font-size: 55px;
+}
+
+h2{
+	font-size: 40px;
+}
+
+p{
+	max-width: 70%;
+	font-family: "Georgia";
+}
+
+header{
+	background-color:#58D68D;
+	padding:  20px 20%;
+}
+
+img{
+	width: 300px;
+	height: 300px;
+}
+
+section{
+	margin: 0;
+	padding: 30px;
+}
+
+.section{
+	display: flex;
+	flex-wrap: nowrap;
+}
+
+.section1{
+	background-color: #F7DC6F;
+}
+
+
+
+
+.section2{
+	background-color: #EC7063;
+}
+
+.section3{
+	background-color: #85929E;
+}
+
+
+
+
+
+
+
+footer{
+	background-color: #BB8FCE;
+	font-size: 40px;
+	text-align: center;
+	padding: 60px;
+}
